@@ -96,7 +96,6 @@ A Python application exploring social media data to identify emerging drug trend
 
 ## Tools
 
-* Git & GitHub
 * Jupyter Notebook
 * RStudio
 * Microsoft Office
