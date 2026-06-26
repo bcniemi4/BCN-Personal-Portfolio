@@ -61,7 +61,7 @@ A Python application exploring social media data to identify emerging drug trend
 
 ---
 
-# 🚧 Currently Working On
+# Currently Working On
 
 * Expanding laboratory workflow automation tools
 * Power BI dashboards for laboratory operations
